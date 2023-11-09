@@ -95,6 +95,11 @@
     .mandesktop {
         display: none;
     }
+    #false {
+    position: absolute;
+    top: 77%;
+    left: 2%;
+    }
 }
 
 
@@ -163,5 +168,10 @@
     .footerdots {
         bottom: -9%;
         left: 142%;
+    }
+    #false {
+    position: absolute;
+    top: 77%;
+    left: 2%;
     }
 }
